@@ -18,6 +18,3 @@
 - Změňte obrázek na pozadí hero section
 - Přidejte nový obrázek někam na webovou stránku
 - Přidejte někam odkaz na externí stránku
-
-
-ahoj
